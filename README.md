@@ -19,7 +19,7 @@ Projeto criado na aula de ReactJs + Firebase, promovido pelo Sujeito Programador
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - ReactJs
-- Firebase (uthentication e Firestone Database)
+- Firebase (Authentication e Firestone Database)
 - Git e Github
 <br>
 
