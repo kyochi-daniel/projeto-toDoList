@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Essa aplicação tem como propósito, mostrar uma lista de tarefas, de início você terá que criar uma conta e depois de se registrar, poderá salvar suas tarefas.
 
-[🔗 Clique aqui para acessar](https://projetoflix-api.vercel.app/)
+[🔗 Clique aqui para acessar](https://projeto-to-do-list-theta.vercel.app/)
 
 ---
 
